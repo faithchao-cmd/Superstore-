@@ -1,12 +1,12 @@
 # Basic Data Sorting & Filtering
 
-Sort and filter a raw sales dataset to answer 5 business questions — practicing basic data exploration in Excel/Google Sheets without altering the source data.
+Sort and filter a raw sales dataset to answer 5 business questions practicing basic data exploration in Excel/Google Sheets without altering the source data.
 
 ## What's inside
 
 | File | Description |
 |---|---|
-| `Data_Sorting_Filtering_Exercise.xlsx` | The workbook — see tab breakdown below. |
+| `Data_Sorting_Filtering_Exercise.xlsx` | The workbook see tab breakdown below. |
 
 
 ## Workbook tabs
@@ -28,13 +28,13 @@ Sort and filter a raw sales dataset to answer 5 business questions — practicin
 For each question: **Filter → Sort → Read.**
 
 1. Apply Data ▸ Filter (Excel) or the filter icon (Sheets) on the relevant column(s).
-2. Set the filter condition(s) — most questions combine two conditions (e.g. Region = West AND ...), per the "use multiple filters" guidance.
+2. Set the filter condition(s) most questions combine two conditions (e.g. Region = West AND ...), per the "use multiple filters" guidance.
 3. Sort the remaining visible rows on the target column (largest-to-smallest or smallest-to-largest).
-4. Read the answer straight off the top row(s) — no formulas required.
+4. Read the answer straight off the top row(s) no formulas required.
 
 No `SUM`/`SUMIFS` formulas were used anywhere in this exercise; that's a different skill (aggregation), not filtering/sorting.
 
 
 ## Data note
 
-The dataset is synthetically generated (same one used in the earlier KPI Tracking Sheet project) — customers, products, and transactions were created programmatically for practice purposes and do not represent a real business.
+The dataset is synthetically generated (same one used in the earlier KPI Tracking Sheet project) customers, products, and transactions were created programmatically for practice purposes and do not represent a real business.
